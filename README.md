@@ -9,7 +9,7 @@ You can also try to download a demo app, which you can use to learn how to build
 # SelfieTaker
 Simple app to take and upload your selfies. There are two versions of this app.
 
-Choose one of following versions:
+Choose one of the following versions:
 * [Without Syncano](https://github.com/lifcio/SelfieTaker/tree/without_syncano) - works offline only, lets you grab a selfie and display it on your phone
 * [With Syncano](https://github.com/lifcio/SelfieTaker/tree/with_syncano) - works online and offline, lets you grab a selfie, display it on your phone AND -- send selfie to Syncano and get list of all previously taken selfies
 
